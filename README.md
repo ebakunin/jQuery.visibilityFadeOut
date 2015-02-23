@@ -4,7 +4,7 @@ jQuery.visibilityFadeOut()
 Copyright (c) 2015 by Eric Christenson (eric.j.christenson[at]gmail[dot]com)<br />
 Licensed under the MIT Public License (http://opensource.org/licenses/MIT).
 
-A version of jQuery.fadeOut() that uses 'visibility' CSS styling. jQuery.visibilityFadeIn() is useful because jQuery.fadeOut() only uses "display" CSS properties, which differ from "visibility" CSS properties.
+A version of jQuery.fadeOut() that uses 'visibility' CSS styling. jQuery.visibilityFadeOut() is useful because jQuery.fadeOut() only uses "display" CSS properties, which differ from "visibility" CSS properties.
 
 
 **Example**
